@@ -55,7 +55,7 @@
                             }
                         });
                 </script>";
-            // echo "<script>alert('Usuario o contraseña incorrecta');window.location='index.php'</script>";
+           
         }
   
  }
